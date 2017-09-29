@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Raleway');
+
+@import url("header.css");
+@import url("one.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
