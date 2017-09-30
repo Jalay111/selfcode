@@ -1,0 +1,71 @@
+.five{
+    background-image: url("../img/fondoHome3.svg");
+    height: 100vh;
+    width: 100%;
+}
+
+.banner-section{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.banner-section > h2{
+    color: #62163B;
+    margin-right: 3vw;;
+}
+
+.container-five{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.five-text-center{
+    margin-top: -130px;
+    width: 60%;
+    text-align: center;
+}
+
+.five-text-center > h1{
+    color: #62163B;
+    font-size: 49px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.five-text-center > .txt{
+    margin-top: 40px;
+    border-left: 2px solid #3E3D3D;
+    border-right: 2px solid #3E3D3D;
+}
+
+.five-text-center > div > p{
+    margin-left:  20px;
+    margin-right: 20px;
+    font-family: 'Didact Gothic', sans-serif; 
+    font-size: 20px;
+    color: rgb(33, 33, 33);
+}
+
+.five-text-center > .inventarse{
+    background-image: url("../img/interro.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 14vh;
+    width: 30%;
+    margin-left: 35%;
+}
+
+.five-text-center > .inventarse > p{
+    margin-top: 4vh;
+    color: #62163B;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}

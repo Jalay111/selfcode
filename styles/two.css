@@ -11,6 +11,11 @@
     text-align: center;
 }
 
+.two-text-center > img{
+    max-height: 140px;
+    max-width: 140px;
+}
+
 .two-text-center > h1{
     color: #62163B;
     font-size: 49px;
